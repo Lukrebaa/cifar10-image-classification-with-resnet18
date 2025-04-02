@@ -24,8 +24,7 @@ CIFAR10-CLASSIFICATION/
 │       └── readme.html                # Original CIFAR-10 readme
 │       └── test_batch                 # Test data batch
 ├── models/                       # Saved model directory
-│   ├── resnet18_cifar10.pth      # Trained PyTorch ResNet18 model weights (included)
-│   └── resnet18                  # Trained TensorFlow ResNet18 model directory
+│   └── resnet18_cifar10.pth      # Trained PyTorch ResNet18 model weights (included)
 ├── results/                      # Results directory
 │   ├── 1117/                     # Results from run 1117
 │   ├── 1120/                     # Results from run 1120

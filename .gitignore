@@ -1,3 +1,6 @@
+#.gitignore
+.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -84,6 +87,7 @@ venv.bak/
 logs/
 runs/
 wandb/
+models/resnet18
 
 # CIFAR specific
 # cifar-10-batches-py/
