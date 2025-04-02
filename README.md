@@ -194,37 +194,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Future Work
-
-- Experiment with different model architectures beyond ResNet18
-- Implement more sophisticated data augmentation techniques
-- Explore different hyperparameter optimization methods
-- Deploy the models as a web service
-- Add ensemble methods combining both implementations
-
-## License
-
-© 2025 [Your Name]
-
-**All Rights Reserved**
-
-This project is currently not licensed for public use, modification, or distribution. The code and associated documentation are provided for demonstration and educational purposes only. 
-
-If you're interested in using, modifying, or distributing this code, please contact the repository owner for permission.
-
-*Note: I'm considering adding an open-source license to this project in the future. If you have suggestions or would like to contribute, please open an issue to discuss.*
