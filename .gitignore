@@ -87,6 +87,7 @@ venv.bak/
 logs/
 runs/
 wandb/
+models/resnet18/
 models/resnet18
 
 # CIFAR specific
